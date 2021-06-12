@@ -14,7 +14,7 @@ _**Sample testcases...**_
 
 **Input: -**
 
-AlE3
+A1E3
 
 **Output: -**
 
